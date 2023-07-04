@@ -85,7 +85,8 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  /* color: #00796b; */
+  color: #2ba9ec;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -116,7 +117,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #2ba9ec;
   background-color: white;
 }
 /* main body */
@@ -549,7 +550,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #b5e1fa !important;
 }
 
 /* .teal-text {
@@ -559,7 +560,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #b5e1fa !important;
 }
 
 /* .teal {
