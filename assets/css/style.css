@@ -86,7 +86,7 @@
   padding: 11px 35px;
   background: #fff;
   /* color: #00796b; */
-  color: #006eff;
+  color: #6cdfff;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -117,7 +117,7 @@
 }
 
 .contactme:hover{
-  color: #006eff;
+  color: #6cdfff;
   background-color: white;
 }
 /* main body */
@@ -321,7 +321,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #7fe5ff repeat;
   position: relative;
 }
 
