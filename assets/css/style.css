@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(49, 214, 251, 0.4); 
+  border: 6px solid rgba(90, 197, 247, 0.4); 
   border-radius: 50% !important;
 }
 
@@ -117,7 +117,7 @@
 }
 
 .contactme:hover{
-  color: #6cdfff;
+  color: #83c5ff;
   background-color: white;
 }
 /* main body */
@@ -141,7 +141,7 @@ body {
 } */
 
 a {
-  color: #002aff;
+  color: #83c5ff;
 }
 
 /* main blockqoute */
@@ -321,7 +321,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #9ecdff repeat;
+  background: #83c5ff repeat;
   position: relative;
 }
 
@@ -349,7 +349,7 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #58aae9;
+  border-bottom: 5px solid #83c5ff;
 }
 
 #intro.section .teal {
@@ -368,7 +368,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(33, 150, 243, 0.2);
+  background-color: rgba(95, 182, 253, 0.2);
 }
 
 .card {
@@ -474,7 +474,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #3dabf0 !important;
+  border-bottom: 3px solid #83c5ff !important;
 }
 
 #skills .card.large {
@@ -603,7 +603,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #48bdec;
+    color: #83c5ff;
     height: 56px;
     line-height: 56px;
   }
